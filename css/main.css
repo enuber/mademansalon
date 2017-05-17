@@ -246,7 +246,6 @@ h5>a:hover {
 
 .location, #googleMap {
     max-width: 800px;
-    border: 1px solid blue;
 }
 .locationInfo {
     max-width: 900px;
