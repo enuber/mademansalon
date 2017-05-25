@@ -15,6 +15,8 @@ $(".servicesList").on('show.bs.collapse', '.collapse', function () {
     $(".servicesList").find('.collapse.in').collapse('hide');
 });
 
+
+
 //open first part of accordion when page comes open using vanilla JS.
 
 var firstCategory = document.getElementById("collapseOne");

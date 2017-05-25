@@ -146,6 +146,15 @@ h5>a:hover {
     font-weight: 500;
 }
 
+/*carousel*/
+
+#salonImagesCarousel {
+    background-color: black;
+        text-align: center;
+}
+
+
+
 /*book now button*/
 
 #bookNow {
